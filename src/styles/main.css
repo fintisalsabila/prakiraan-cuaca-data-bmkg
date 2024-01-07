@@ -1,0 +1,14 @@
+html {
+    overflow: hidden;
+}
+
+._list-weather {
+    height: 550px;
+    overflow: auto;
+}
+
+._footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
